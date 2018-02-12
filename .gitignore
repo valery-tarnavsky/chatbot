@@ -1,0 +1,12 @@
+/node_modules/
+/.git/
+/psd/
+
+# Arhivs
+/**/*.rar
+/**/*.zip
+
+# PhpStorm
+/.idea/
+
+/node_modules

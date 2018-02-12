@@ -29,10 +29,6 @@ var chat = (function(){
                         result = items[Math.floor(Math.random()*items.length)];
                     }
                 });
-                /*if(config.request[i][j] == msg){
-                    var items = config.response[i];
-                    item = items[Math.floor(Math.random()*items.length)];
-                }*/
             }
         }
         return result;
